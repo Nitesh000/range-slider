@@ -8,7 +8,7 @@
 
 <details>
     <summary> working demo </summary>
-![working slider](https://drive.google.com/uc?id=1TiUDrzZnu9FT-0pjdGNiKYunUjZl3Ik9) 
+    ![working slider](https://drive.google.com/uc?export=view&id=1TiUDrzZnu9FT-0pjdGNiKYunUjZl3Ik9) 
 </details>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
